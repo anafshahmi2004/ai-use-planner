@@ -1,0 +1,1530 @@
+{
+ "n_rows": 284,
+ "h_min": 0.5,
+ "h_max": 8.0,
+ "models": {
+  "time_saved": {
+   "intercept": 0.9477850952708353,
+   "coefs": [
+    1.7138346601554721
+   ],
+   "lo": -2.3270362686701653,
+   "hi": 2.380739855021103,
+   "n": 267
+  },
+  "productivity": {
+   "intercept": 2.5378684960339575,
+   "coefs": [
+    1.2575756508909024,
+    -0.07113522821093263
+   ],
+   "lo": -1.3281150195543148,
+   "hi": 1.3257165068188062,
+   "n": 263
+  }
+ },
+ "bands": [
+  {
+   "band": "<=1h",
+   "n": 50,
+   "efficiency": 0.381
+  },
+  {
+   "band": "1-2h",
+   "n": 90,
+   "efficiency": 0.339
+  },
+  {
+   "band": "2-4h",
+   "n": 68,
+   "efficiency": 0.286
+  },
+  {
+   "band": "4-6h",
+   "n": 46,
+   "efficiency": 0.283
+  },
+  {
+   "band": ">6h",
+   "n": 23,
+   "efficiency": 0.255
+  }
+ ],
+ "points": [
+  {
+   "hours": 2.0,
+   "time_saved": 3.9,
+   "productivity": 5.3
+  },
+  {
+   "hours": 5.7,
+   "time_saved": 11.4,
+   "productivity": 9.9
+  },
+  {
+   "hours": 1.0,
+   "time_saved": 5.2,
+   "productivity": 3.2
+  },
+  {
+   "hours": 1.7,
+   "time_saved": 6.4,
+   "productivity": 5.6
+  },
+  {
+   "hours": 4.1,
+   "time_saved": 9.2,
+   "productivity": 4.7
+  },
+  {
+   "hours": 1.5,
+   "time_saved": 2.9,
+   "productivity": 5.0
+  },
+  {
+   "hours": 1.2,
+   "time_saved": 6.6,
+   "productivity": 3.0
+  },
+  {
+   "hours": 2.0,
+   "time_saved": 3.2,
+   "productivity": 6.5
+  },
+  {
+   "hours": 1.6,
+   "time_saved": 3.8,
+   "productivity": 4.7
+  },
+  {
+   "hours": 1.7,
+   "time_saved": 7.5,
+   "productivity": null
+  },
+  {
+   "hours": 2.7,
+   "time_saved": 5.7,
+   "productivity": null
+  },
+  {
+   "hours": 5.0,
+   "time_saved": 9.8,
+   "productivity": 6.6
+  },
+  {
+   "hours": 0.8,
+   "time_saved": 0.5,
+   "productivity": 2.3
+  },
+  {
+   "hours": 5.8,
+   "time_saved": 10.2,
+   "productivity": 6.9
+  },
+  {
+   "hours": 3.9,
+   "time_saved": 11.8,
+   "productivity": 8.6
+  },
+  {
+   "hours": 7.1,
+   "time_saved": 11.6,
+   "productivity": null
+  },
+  {
+   "hours": 1.7,
+   "time_saved": 3.4,
+   "productivity": 7.0
+  },
+  {
+   "hours": 1.5,
+   "time_saved": 3.7,
+   "productivity": 3.9
+  },
+  {
+   "hours": 9.6,
+   "time_saved": 19.4,
+   "productivity": 7.3
+  },
+  {
+   "hours": 0.9,
+   "time_saved": 0.0,
+   "productivity": 4.1
+  },
+  {
+   "hours": 1.7,
+   "time_saved": 2.7,
+   "productivity": 2.8
+  },
+  {
+   "hours": 1.0,
+   "time_saved": 2.7,
+   "productivity": 4.0
+  },
+  {
+   "hours": 2.6,
+   "time_saved": 4.8,
+   "productivity": 3.7
+  },
+  {
+   "hours": 1.2,
+   "time_saved": 3.0,
+   "productivity": 3.8
+  },
+  {
+   "hours": 1.6,
+   "time_saved": 4.5,
+   "productivity": 4.0
+  },
+  {
+   "hours": 0.6,
+   "time_saved": 0.0,
+   "productivity": 3.0
+  },
+  {
+   "hours": 0.7,
+   "time_saved": 4.4,
+   "productivity": 4.0
+  },
+  {
+   "hours": 7.4,
+   "time_saved": 12.3,
+   "productivity": 8.7
+  },
+  {
+   "hours": 5.4,
+   "time_saved": 10.7,
+   "productivity": 7.2
+  },
+  {
+   "hours": 5.2,
+   "time_saved": 12.1,
+   "productivity": 6.7
+  },
+  {
+   "hours": 3.7,
+   "time_saved": 5.7,
+   "productivity": 4.6
+  },
+  {
+   "hours": 2.3,
+   "time_saved": 2.5,
+   "productivity": 3.9
+  },
+  {
+   "hours": 5.4,
+   "time_saved": 6.8,
+   "productivity": 8.1
+  },
+  {
+   "hours": 1.9,
+   "time_saved": 2.0,
+   "productivity": 4.6
+  },
+  {
+   "hours": 1.6,
+   "time_saved": 4.3,
+   "productivity": 3.3
+  },
+  {
+   "hours": 1.9,
+   "time_saved": 3.0,
+   "productivity": 3.5
+  },
+  {
+   "hours": 1.5,
+   "time_saved": 5.3,
+   "productivity": 5.3
+  },
+  {
+   "hours": 5.5,
+   "time_saved": 6.5,
+   "productivity": null
+  },
+  {
+   "hours": 0.6,
+   "time_saved": 0.0,
+   "productivity": 4.0
+  },
+  {
+   "hours": 1.6,
+   "time_saved": 5.2,
+   "productivity": 3.9
+  },
+  {
+   "hours": 3.7,
+   "time_saved": 5.8,
+   "productivity": 5.7
+  },
+  {
+   "hours": 0.6,
+   "time_saved": 1.6,
+   "productivity": 4.4
+  },
+  {
+   "hours": 5.1,
+   "time_saved": 11.4,
+   "productivity": 8.3
+  },
+  {
+   "hours": 2.4,
+   "time_saved": 7.3,
+   "productivity": 5.5
+  },
+  {
+   "hours": 0.9,
+   "time_saved": 1.2,
+   "productivity": 3.1
+  },
+  {
+   "hours": 9.1,
+   "time_saved": 14.9,
+   "productivity": 6.5
+  },
+  {
+   "hours": 8.0,
+   "time_saved": 16.3,
+   "productivity": 7.3
+  },
+  {
+   "hours": null,
+   "time_saved": 7.2,
+   "productivity": 6.9
+  },
+  {
+   "hours": 7.7,
+   "time_saved": 13.6,
+   "productivity": 8.4
+  },
+  {
+   "hours": 1.3,
+   "time_saved": 3.2,
+   "productivity": 3.3
+  },
+  {
+   "hours": 2.2,
+   "time_saved": 2.8,
+   "productivity": 5.0
+  },
+  {
+   "hours": 1.2,
+   "time_saved": null,
+   "productivity": 5.8
+  },
+  {
+   "hours": 0.6,
+   "time_saved": 2.2,
+   "productivity": 3.2
+  },
+  {
+   "hours": 1.9,
+   "time_saved": 6.0,
+   "productivity": 5.4
+  },
+  {
+   "hours": 4.6,
+   "time_saved": 11.5,
+   "productivity": 8.8
+  },
+  {
+   "hours": 1.4,
+   "time_saved": 1.7,
+   "productivity": 1.9
+  },
+  {
+   "hours": 7.2,
+   "time_saved": 13.2,
+   "productivity": 6.8
+  },
+  {
+   "hours": 1.3,
+   "time_saved": 2.9,
+   "productivity": 3.8
+  },
+  {
+   "hours": 1.0,
+   "time_saved": 4.2,
+   "productivity": 3.2
+  },
+  {
+   "hours": null,
+   "time_saved": 12.4,
+   "productivity": 7.6
+  },
+  {
+   "hours": 3.4,
+   "time_saved": 7.4,
+   "productivity": 4.9
+  },
+  {
+   "hours": 0.5,
+   "time_saved": 0.1,
+   "productivity": 2.9
+  },
+  {
+   "hours": 3.5,
+   "time_saved": 8.3,
+   "productivity": 4.7
+  },
+  {
+   "hours": 1.0,
+   "time_saved": 0.7,
+   "productivity": 2.5
+  },
+  {
+   "hours": 1.7,
+   "time_saved": 3.4,
+   "productivity": 5.7
+  },
+  {
+   "hours": 1.0,
+   "time_saved": 2.6,
+   "productivity": 3.3
+  },
+  {
+   "hours": 1.3,
+   "time_saved": 2.9,
+   "productivity": 4.8
+  },
+  {
+   "hours": 0.7,
+   "time_saved": 0.8,
+   "productivity": 3.4
+  },
+  {
+   "hours": 4.9,
+   "time_saved": 11.5,
+   "productivity": 5.7
+  },
+  {
+   "hours": 4.3,
+   "time_saved": 6.7,
+   "productivity": 6.1
+  },
+  {
+   "hours": 2.4,
+   "time_saved": 2.6,
+   "productivity": 5.4
+  },
+  {
+   "hours": 0.7,
+   "time_saved": 2.1,
+   "productivity": 4.1
+  },
+  {
+   "hours": 2.1,
+   "time_saved": null,
+   "productivity": 4.7
+  },
+  {
+   "hours": 2.1,
+   "time_saved": 2.8,
+   "productivity": 3.8
+  },
+  {
+   "hours": 7.0,
+   "time_saved": 12.8,
+   "productivity": 9.7
+  },
+  {
+   "hours": 2.6,
+   "time_saved": 3.6,
+   "productivity": null
+  },
+  {
+   "hours": 9.9,
+   "time_saved": 16.2,
+   "productivity": 8.8
+  },
+  {
+   "hours": 4.1,
+   "time_saved": 7.2,
+   "productivity": 6.0
+  },
+  {
+   "hours": 1.9,
+   "time_saved": 4.1,
+   "productivity": 3.4
+  },
+  {
+   "hours": 4.8,
+   "time_saved": 5.7,
+   "productivity": 7.7
+  },
+  {
+   "hours": 0.6,
+   "time_saved": 4.2,
+   "productivity": 3.3
+  },
+  {
+   "hours": 1.9,
+   "time_saved": 2.9,
+   "productivity": 5.5
+  },
+  {
+   "hours": 1.3,
+   "time_saved": 2.6,
+   "productivity": 4.3
+  },
+  {
+   "hours": 3.8,
+   "time_saved": 9.4,
+   "productivity": 6.1
+  },
+  {
+   "hours": 1.3,
+   "time_saved": 2.7,
+   "productivity": 5.2
+  },
+  {
+   "hours": 1.5,
+   "time_saved": 1.8,
+   "productivity": 5.0
+  },
+  {
+   "hours": 0.7,
+   "time_saved": 0.6,
+   "productivity": 3.8
+  },
+  {
+   "hours": 3.9,
+   "time_saved": 6.8,
+   "productivity": 7.7
+  },
+  {
+   "hours": 1.6,
+   "time_saved": 4.7,
+   "productivity": 5.1
+  },
+  {
+   "hours": 0.9,
+   "time_saved": 0.0,
+   "productivity": 3.7
+  },
+  {
+   "hours": null,
+   "time_saved": 15.1,
+   "productivity": 9.4
+  },
+  {
+   "hours": 0.6,
+   "time_saved": 3.0,
+   "productivity": 4.1
+  },
+  {
+   "hours": 5.4,
+   "time_saved": 13.1,
+   "productivity": 9.3
+  },
+  {
+   "hours": 3.6,
+   "time_saved": 5.2,
+   "productivity": null
+  },
+  {
+   "hours": 5.0,
+   "time_saved": 12.0,
+   "productivity": 6.2
+  },
+  {
+   "hours": 1.9,
+   "time_saved": 4.8,
+   "productivity": 4.8
+  },
+  {
+   "hours": 1.3,
+   "time_saved": 4.3,
+   "productivity": 3.1
+  },
+  {
+   "hours": 1.6,
+   "time_saved": 4.2,
+   "productivity": 4.5
+  },
+  {
+   "hours": 0.9,
+   "time_saved": 1.8,
+   "productivity": 3.2
+  },
+  {
+   "hours": 0.9,
+   "time_saved": 1.5,
+   "productivity": 3.9
+  },
+  {
+   "hours": 2.0,
+   "time_saved": 3.0,
+   "productivity": 4.8
+  },
+  {
+   "hours": 8.5,
+   "time_saved": 15.6,
+   "productivity": 8.7
+  },
+  {
+   "hours": 4.9,
+   "time_saved": 10.7,
+   "productivity": 8.6
+  },
+  {
+   "hours": 2.2,
+   "time_saved": 5.2,
+   "productivity": 5.3
+  },
+  {
+   "hours": 6.0,
+   "time_saved": 13.1,
+   "productivity": 7.6
+  },
+  {
+   "hours": 1.3,
+   "time_saved": 4.9,
+   "productivity": 2.4
+  },
+  {
+   "hours": 0.7,
+   "time_saved": 0.6,
+   "productivity": 4.7
+  },
+  {
+   "hours": 5.0,
+   "time_saved": 11.4,
+   "productivity": 7.7
+  },
+  {
+   "hours": 1.4,
+   "time_saved": 2.3,
+   "productivity": null
+  },
+  {
+   "hours": 1.8,
+   "time_saved": 4.1,
+   "productivity": 2.5
+  },
+  {
+   "hours": 0.5,
+   "time_saved": 2.7,
+   "productivity": 5.8
+  },
+  {
+   "hours": 1.6,
+   "time_saved": 4.9,
+   "productivity": 4.9
+  },
+  {
+   "hours": 4.6,
+   "time_saved": 7.9,
+   "productivity": 7.4
+  },
+  {
+   "hours": 3.4,
+   "time_saved": 7.2,
+   "productivity": 6.5
+  },
+  {
+   "hours": 3.3,
+   "time_saved": 7.7,
+   "productivity": 6.6
+  },
+  {
+   "hours": 1.9,
+   "time_saved": 0.8,
+   "productivity": 3.7
+  },
+  {
+   "hours": 3.8,
+   "time_saved": 7.0,
+   "productivity": 6.5
+  },
+  {
+   "hours": 1.4,
+   "time_saved": 1.2,
+   "productivity": 1.8
+  },
+  {
+   "hours": 0.7,
+   "time_saved": 3.6,
+   "productivity": 4.3
+  },
+  {
+   "hours": 2.3,
+   "time_saved": 2.3,
+   "productivity": 6.1
+  },
+  {
+   "hours": 4.0,
+   "time_saved": 7.9,
+   "productivity": 7.5
+  },
+  {
+   "hours": 1.7,
+   "time_saved": 7.1,
+   "productivity": 5.8
+  },
+  {
+   "hours": 2.2,
+   "time_saved": 1.3,
+   "productivity": 5.7
+  },
+  {
+   "hours": 2.4,
+   "time_saved": 4.7,
+   "productivity": 4.8
+  },
+  {
+   "hours": 1.2,
+   "time_saved": 0.4,
+   "productivity": 2.4
+  },
+  {
+   "hours": 1.3,
+   "time_saved": 3.8,
+   "productivity": 4.5
+  },
+  {
+   "hours": 2.7,
+   "time_saved": 8.4,
+   "productivity": 5.7
+  },
+  {
+   "hours": 1.4,
+   "time_saved": 0.8,
+   "productivity": 2.9
+  },
+  {
+   "hours": 1.2,
+   "time_saved": 1.7,
+   "productivity": 3.7
+  },
+  {
+   "hours": 1.4,
+   "time_saved": 4.6,
+   "productivity": 2.9
+  },
+  {
+   "hours": 3.0,
+   "time_saved": 10.5,
+   "productivity": 7.0
+  },
+  {
+   "hours": 0.8,
+   "time_saved": 0.0,
+   "productivity": null
+  },
+  {
+   "hours": 2.2,
+   "time_saved": 5.6,
+   "productivity": 5.1
+  },
+  {
+   "hours": 2.3,
+   "time_saved": 4.9,
+   "productivity": 4.5
+  },
+  {
+   "hours": 2.0,
+   "time_saved": 5.7,
+   "productivity": 5.2
+  },
+  {
+   "hours": 6.5,
+   "time_saved": 14.2,
+   "productivity": 8.3
+  },
+  {
+   "hours": 2.2,
+   "time_saved": 2.0,
+   "productivity": 4.5
+  },
+  {
+   "hours": 2.1,
+   "time_saved": 2.0,
+   "productivity": 5.4
+  },
+  {
+   "hours": 2.9,
+   "time_saved": null,
+   "productivity": 6.6
+  },
+  {
+   "hours": 1.9,
+   "time_saved": 4.9,
+   "productivity": 5.1
+  },
+  {
+   "hours": 9.5,
+   "time_saved": 15.2,
+   "productivity": 8.6
+  },
+  {
+   "hours": 4.9,
+   "time_saved": 8.2,
+   "productivity": 5.5
+  },
+  {
+   "hours": 1.9,
+   "time_saved": 1.4,
+   "productivity": null
+  },
+  {
+   "hours": 1.5,
+   "time_saved": 7.1,
+   "productivity": 4.0
+  },
+  {
+   "hours": 1.0,
+   "time_saved": 0.0,
+   "productivity": 3.6
+  },
+  {
+   "hours": 1.5,
+   "time_saved": 2.2,
+   "productivity": 3.4
+  },
+  {
+   "hours": 9.7,
+   "time_saved": null,
+   "productivity": 7.7
+  },
+  {
+   "hours": 1.5,
+   "time_saved": 1.8,
+   "productivity": 4.2
+  },
+  {
+   "hours": 0.6,
+   "time_saved": 0.1,
+   "productivity": 2.1
+  },
+  {
+   "hours": 3.3,
+   "time_saved": 6.5,
+   "productivity": 7.8
+  },
+  {
+   "hours": 3.0,
+   "time_saved": 4.9,
+   "productivity": 4.5
+  },
+  {
+   "hours": 1.4,
+   "time_saved": 1.6,
+   "productivity": 3.9
+  },
+  {
+   "hours": 2.8,
+   "time_saved": 9.4,
+   "productivity": 6.6
+  },
+  {
+   "hours": 2.3,
+   "time_saved": 2.0,
+   "productivity": 4.8
+  },
+  {
+   "hours": 2.7,
+   "time_saved": 5.0,
+   "productivity": null
+  },
+  {
+   "hours": 4.1,
+   "time_saved": 4.3,
+   "productivity": 6.2
+  },
+  {
+   "hours": 1.2,
+   "time_saved": 2.9,
+   "productivity": 3.4
+  },
+  {
+   "hours": 5.9,
+   "time_saved": 12.1,
+   "productivity": 6.1
+  },
+  {
+   "hours": 1.1,
+   "time_saved": 5.6,
+   "productivity": 4.1
+  },
+  {
+   "hours": 1.2,
+   "time_saved": 5.3,
+   "productivity": 2.6
+  },
+  {
+   "hours": 0.7,
+   "time_saved": 0.0,
+   "productivity": 4.3
+  },
+  {
+   "hours": 0.6,
+   "time_saved": 0.0,
+   "productivity": 1.9
+  },
+  {
+   "hours": 3.7,
+   "time_saved": 9.9,
+   "productivity": 7.7
+  },
+  {
+   "hours": 1.0,
+   "time_saved": 2.7,
+   "productivity": null
+  },
+  {
+   "hours": 0.8,
+   "time_saved": 2.9,
+   "productivity": 4.3
+  },
+  {
+   "hours": 2.5,
+   "time_saved": 4.4,
+   "productivity": 5.2
+  },
+  {
+   "hours": null,
+   "time_saved": 2.1,
+   "productivity": 4.7
+  },
+  {
+   "hours": 1.5,
+   "time_saved": null,
+   "productivity": 4.9
+  },
+  {
+   "hours": 1.5,
+   "time_saved": 7.5,
+   "productivity": 6.2
+  },
+  {
+   "hours": 4.4,
+   "time_saved": 7.1,
+   "productivity": 7.8
+  },
+  {
+   "hours": 5.8,
+   "time_saved": 13.5,
+   "productivity": 8.1
+  },
+  {
+   "hours": 4.0,
+   "time_saved": 5.7,
+   "productivity": 5.0
+  },
+  {
+   "hours": 3.5,
+   "time_saved": 7.0,
+   "productivity": 4.9
+  },
+  {
+   "hours": 1.4,
+   "time_saved": 3.8,
+   "productivity": 3.5
+  },
+  {
+   "hours": 5.5,
+   "time_saved": 10.9,
+   "productivity": 8.3
+  },
+  {
+   "hours": 1.9,
+   "time_saved": 8.0,
+   "productivity": 5.6
+  },
+  {
+   "hours": 0.9,
+   "time_saved": 3.9,
+   "productivity": 4.1
+  },
+  {
+   "hours": 3.7,
+   "time_saved": 7.5,
+   "productivity": 7.9
+  },
+  {
+   "hours": 4.4,
+   "time_saved": 7.7,
+   "productivity": 6.1
+  },
+  {
+   "hours": 9.8,
+   "time_saved": 15.8,
+   "productivity": 9.1
+  },
+  {
+   "hours": 1.7,
+   "time_saved": 3.5,
+   "productivity": 5.2
+  },
+  {
+   "hours": 3.9,
+   "time_saved": 6.7,
+   "productivity": 6.9
+  },
+  {
+   "hours": 1.6,
+   "time_saved": 3.5,
+   "productivity": 4.5
+  },
+  {
+   "hours": 2.7,
+   "time_saved": 6.4,
+   "productivity": 4.8
+  },
+  {
+   "hours": 6.1,
+   "time_saved": 8.9,
+   "productivity": 7.0
+  },
+  {
+   "hours": 0.9,
+   "time_saved": 0.1,
+   "productivity": 4.4
+  },
+  {
+   "hours": 3.0,
+   "time_saved": 3.1,
+   "productivity": 4.4
+  },
+  {
+   "hours": 5.9,
+   "time_saved": 9.0,
+   "productivity": 8.1
+  },
+  {
+   "hours": 1.3,
+   "time_saved": 0.5,
+   "productivity": 2.7
+  },
+  {
+   "hours": 1.9,
+   "time_saved": 2.1,
+   "productivity": 4.9
+  },
+  {
+   "hours": 0.5,
+   "time_saved": 0.5,
+   "productivity": 4.3
+  },
+  {
+   "hours": 3.4,
+   "time_saved": 7.2,
+   "productivity": 4.9
+  },
+  {
+   "hours": 1.4,
+   "time_saved": 3.6,
+   "productivity": 4.8
+  },
+  {
+   "hours": 0.8,
+   "time_saved": 1.2,
+   "productivity": 2.1
+  },
+  {
+   "hours": 1.6,
+   "time_saved": 6.5,
+   "productivity": 5.2
+  },
+  {
+   "hours": 1.4,
+   "time_saved": 2.5,
+   "productivity": 1.9
+  },
+  {
+   "hours": 2.7,
+   "time_saved": null,
+   "productivity": 6.8
+  },
+  {
+   "hours": 1.7,
+   "time_saved": 5.0,
+   "productivity": 5.8
+  },
+  {
+   "hours": 3.1,
+   "time_saved": 5.2,
+   "productivity": 5.6
+  },
+  {
+   "hours": 1.5,
+   "time_saved": 5.5,
+   "productivity": 3.6
+  },
+  {
+   "hours": 5.5,
+   "time_saved": 9.3,
+   "productivity": 7.6
+  },
+  {
+   "hours": 0.5,
+   "time_saved": 2.7,
+   "productivity": 2.0
+  },
+  {
+   "hours": 2.9,
+   "time_saved": 6.6,
+   "productivity": 5.7
+  },
+  {
+   "hours": 1.0,
+   "time_saved": null,
+   "productivity": 2.6
+  },
+  {
+   "hours": 2.1,
+   "time_saved": 5.4,
+   "productivity": 4.2
+  },
+  {
+   "hours": 0.6,
+   "time_saved": 3.0,
+   "productivity": 3.3
+  },
+  {
+   "hours": 5.3,
+   "time_saved": 10.7,
+   "productivity": 7.8
+  },
+  {
+   "hours": 3.4,
+   "time_saved": 7.4,
+   "productivity": 6.8
+  },
+  {
+   "hours": 1.7,
+   "time_saved": 2.9,
+   "productivity": 3.5
+  },
+  {
+   "hours": 6.8,
+   "time_saved": 14.1,
+   "productivity": 6.9
+  },
+  {
+   "hours": 2.8,
+   "time_saved": 6.8,
+   "productivity": 5.4
+  },
+  {
+   "hours": 5.9,
+   "time_saved": 12.4,
+   "productivity": 5.5
+  },
+  {
+   "hours": 4.5,
+   "time_saved": 5.5,
+   "productivity": 5.6
+  },
+  {
+   "hours": 4.2,
+   "time_saved": 5.6,
+   "productivity": 5.9
+  },
+  {
+   "hours": 4.9,
+   "time_saved": 6.5,
+   "productivity": 5.4
+  },
+  {
+   "hours": 3.4,
+   "time_saved": 6.0,
+   "productivity": 4.8
+  },
+  {
+   "hours": 4.4,
+   "time_saved": 5.7,
+   "productivity": 7.3
+  },
+  {
+   "hours": 1.8,
+   "time_saved": 5.1,
+   "productivity": 3.6
+  },
+  {
+   "hours": 6.3,
+   "time_saved": 10.0,
+   "productivity": 8.8
+  },
+  {
+   "hours": 1.6,
+   "time_saved": 5.9,
+   "productivity": 3.4
+  },
+  {
+   "hours": 1.5,
+   "time_saved": 4.2,
+   "productivity": 4.0
+  },
+  {
+   "hours": 0.7,
+   "time_saved": 5.9,
+   "productivity": 3.4
+  },
+  {
+   "hours": 4.4,
+   "time_saved": 11.3,
+   "productivity": 5.8
+  },
+  {
+   "hours": 5.7,
+   "time_saved": 13.0,
+   "productivity": 6.7
+  },
+  {
+   "hours": 8.1,
+   "time_saved": 16.5,
+   "productivity": 5.6
+  },
+  {
+   "hours": 2.0,
+   "time_saved": 3.6,
+   "productivity": 3.6
+  },
+  {
+   "hours": 3.9,
+   "time_saved": 9.8,
+   "productivity": 5.2
+  },
+  {
+   "hours": 4.1,
+   "time_saved": 8.4,
+   "productivity": 5.2
+  },
+  {
+   "hours": 1.6,
+   "time_saved": 5.9,
+   "productivity": 3.1
+  },
+  {
+   "hours": 4.9,
+   "time_saved": 9.0,
+   "productivity": 5.8
+  },
+  {
+   "hours": 1.7,
+   "time_saved": 1.9,
+   "productivity": 4.9
+  },
+  {
+   "hours": 0.7,
+   "time_saved": 1.0,
+   "productivity": 4.5
+  },
+  {
+   "hours": 4.1,
+   "time_saved": 10.5,
+   "productivity": 7.0
+  },
+  {
+   "hours": 0.7,
+   "time_saved": 3.0,
+   "productivity": 2.3
+  },
+  {
+   "hours": 1.8,
+   "time_saved": 2.7,
+   "productivity": 5.1
+  },
+  {
+   "hours": 2.0,
+   "time_saved": 4.3,
+   "productivity": 4.9
+  },
+  {
+   "hours": 8.6,
+   "time_saved": 17.7,
+   "productivity": 7.6
+  },
+  {
+   "hours": null,
+   "time_saved": 1.5,
+   "productivity": 3.4
+  },
+  {
+   "hours": 9.7,
+   "time_saved": 17.2,
+   "productivity": 7.5
+  },
+  {
+   "hours": null,
+   "time_saved": 1.5,
+   "productivity": 3.8
+  },
+  {
+   "hours": 1.5,
+   "time_saved": 5.5,
+   "productivity": null
+  },
+  {
+   "hours": 7.2,
+   "time_saved": 11.7,
+   "productivity": 9.4
+  },
+  {
+   "hours": 0.9,
+   "time_saved": 2.5,
+   "productivity": 4.9
+  },
+  {
+   "hours": 6.0,
+   "time_saved": null,
+   "productivity": 10.0
+  },
+  {
+   "hours": 0.6,
+   "time_saved": 4.0,
+   "productivity": 4.9
+  },
+  {
+   "hours": 2.9,
+   "time_saved": 8.4,
+   "productivity": 7.8
+  },
+  {
+   "hours": 2.0,
+   "time_saved": 5.8,
+   "productivity": 5.0
+  },
+  {
+   "hours": 1.5,
+   "time_saved": 1.9,
+   "productivity": null
+  },
+  {
+   "hours": 3.3,
+   "time_saved": 5.9,
+   "productivity": 6.3
+  },
+  {
+   "hours": 0.6,
+   "time_saved": 2.2,
+   "productivity": 1.6
+  },
+  {
+   "hours": 2.5,
+   "time_saved": 5.6,
+   "productivity": 6.1
+  },
+  {
+   "hours": 7.9,
+   "time_saved": 14.2,
+   "productivity": 8.9
+  },
+  {
+   "hours": 0.7,
+   "time_saved": 4.8,
+   "productivity": 5.1
+  },
+  {
+   "hours": 8.0,
+   "time_saved": 15.8,
+   "productivity": 7.4
+  },
+  {
+   "hours": 5.0,
+   "time_saved": null,
+   "productivity": 7.0
+  },
+  {
+   "hours": null,
+   "time_saved": 0.1,
+   "productivity": 3.8
+  },
+  {
+   "hours": 1.2,
+   "time_saved": 3.7,
+   "productivity": 3.4
+  },
+  {
+   "hours": 1.7,
+   "time_saved": 6.2,
+   "productivity": 4.0
+  },
+  {
+   "hours": 3.3,
+   "time_saved": 6.4,
+   "productivity": 6.0
+  },
+  {
+   "hours": 2.8,
+   "time_saved": 6.9,
+   "productivity": 5.0
+  },
+  {
+   "hours": 3.4,
+   "time_saved": 7.7,
+   "productivity": 5.5
+  },
+  {
+   "hours": 3.0,
+   "time_saved": 7.1,
+   "productivity": 4.0
+  },
+  {
+   "hours": 2.9,
+   "time_saved": 8.3,
+   "productivity": 6.1
+  },
+  {
+   "hours": 1.1,
+   "time_saved": 5.1,
+   "productivity": 5.1
+  },
+  {
+   "hours": 2.0,
+   "time_saved": 3.8,
+   "productivity": 5.6
+  },
+  {
+   "hours": 2.3,
+   "time_saved": 3.4,
+   "productivity": 4.2
+  },
+  {
+   "hours": 1.7,
+   "time_saved": 3.7,
+   "productivity": 6.0
+  },
+  {
+   "hours": 5.7,
+   "time_saved": 13.4,
+   "productivity": 5.9
+  },
+  {
+   "hours": 0.8,
+   "time_saved": 4.3,
+   "productivity": 3.9
+  },
+  {
+   "hours": 1.6,
+   "time_saved": 5.3,
+   "productivity": 5.2
+  },
+  {
+   "hours": 3.2,
+   "time_saved": 10.0,
+   "productivity": null
+  },
+  {
+   "hours": 4.3,
+   "time_saved": 8.1,
+   "productivity": 5.8
+  },
+  {
+   "hours": 0.5,
+   "time_saved": 3.1,
+   "productivity": 2.3
+  },
+  {
+   "hours": 4.3,
+   "time_saved": 4.8,
+   "productivity": 7.2
+  },
+  {
+   "hours": 2.4,
+   "time_saved": 4.8,
+   "productivity": 3.4
+  },
+  {
+   "hours": 2.8,
+   "time_saved": 3.9,
+   "productivity": 7.9
+  },
+  {
+   "hours": 1.2,
+   "time_saved": 1.1,
+   "productivity": 4.1
+  },
+  {
+   "hours": 0.6,
+   "time_saved": 3.6,
+   "productivity": 3.3
+  },
+  {
+   "hours": 3.9,
+   "time_saved": 7.3,
+   "productivity": 5.7
+  },
+  {
+   "hours": 1.8,
+   "time_saved": null,
+   "productivity": 1.8
+  },
+  {
+   "hours": 1.2,
+   "time_saved": 1.0,
+   "productivity": 4.7
+  },
+  {
+   "hours": 5.5,
+   "time_saved": 11.5,
+   "productivity": 7.8
+  },
+  {
+   "hours": 0.7,
+   "time_saved": 1.7,
+   "productivity": 4.3
+  },
+  {
+   "hours": 2.8,
+   "time_saved": 6.2,
+   "productivity": 5.4
+  }
+ ],
+ "overreliance": {
+  "thresholds": {
+   "heavy_hours": 3.0,
+   "low_acc": 3,
+   "very_low_acc": 2
+  },
+  "tiers": [
+   {
+    "tier": "High concern",
+    "n": 15,
+    "ai_hours": 5.31,
+    "accuracy": 2.0,
+    "productivity": 6.98,
+    "satisfaction": 5.87,
+    "pct_recommend": 0.33,
+    "pct_not_recommend": 0.4,
+    "efficiency_median": 0.29
+   },
+   {
+    "tier": "Watch",
+    "n": 31,
+    "ai_hours": 5.19,
+    "accuracy": 3.0,
+    "productivity": 6.98,
+    "satisfaction": 6.77,
+    "pct_recommend": 0.77,
+    "pct_not_recommend": 0.13,
+    "efficiency_median": 0.28
+   },
+   {
+    "tier": "No flag",
+    "n": 217,
+    "ai_hours": 2.41,
+    "accuracy": 3.6,
+    "productivity": 4.89,
+    "satisfaction": 6.08,
+    "pct_recommend": 0.59,
+    "pct_not_recommend": 0.25,
+    "efficiency_median": 0.29
+   }
+  ],
+  "note": "15 respondents are in the high-concern group and 31 in the watch group. 33% of the high-concern group would recommend their tool, against 59% of unflagged respondents (p about 0.06, so suggestive, not proven). The watch group is no less satisfied than unflagged users. Treat this as a screening rule, not a diagnosis."
+ },
+ "findings": [
+  "Daily AI hours explain most of the variation in weekly time saved (R\u00b2 about 0.76) and productivity (about 0.56). Tool, country, field, income and cost add almost nothing.",
+  "Each extra AI hour a day goes with about 1.7 more hours saved per week.",
+  "Returns diminish: median time saved per AI hour falls from 0.38 h at <=1h to 0.26 h at >6h.",
+  "Accuracy ratings do not rise with usage (rank correlation +0.05).",
+  "Paid and free users report similar results, and students and professionals look alike."
+ ],
+ "caveats": [
+  "The data is self-reported and observational, so these are associations, not causal effects.",
+  "The patterns are unusually clean for survey data, which suggests the dataset is partly synthetic.",
+  "Individuals vary by about 2 hours a week around the expected value; use the tool for rough planning."
+ ]
+}
